@@ -1,0 +1,26 @@
+Yashwantrao Chavan Institute of Science (YCIS), Satara, Maharashtra
+
+Departments:
+- Computer Science
+- Chemistry
+- Mathematics
+- Electronics
+- Physics
+- Botany
+- Zoology
+
+Courses:
+- B.Sc Computer Science
+- B.Sc Chemistry
+- B.Sc Mathematics
+- M.Sc Computer Science
+
+Fees:
+- Chemistry: 18000 per year
+- Mathematics: 15000 per year
+- Electronics: 22000 per year
+
+Admission Process:
+- Fill online form
+- Submit documents
+- Merit-based selection
