@@ -9,7 +9,7 @@ MAX_PAGES = 200
 
 DB_CONFIG = {
     "host": "localhost",
-    "user": "root",
+    "user": "",
     "password": "_",
     "database": "ycis_chatbot"
 }

@@ -4,8 +4,8 @@ from rapidfuzz import fuzz
 def get_connection():
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="Sidpadwal@"
+        user="",
+        password=""
         database="ycis_chatbot"
     )
 
